@@ -322,20 +322,48 @@ section .title::after {
   background: crimson;
 }
 .skills-content .right .html::before {
-  width: 90%;
+  width: 70%;
 }
 .skills-content .right .css::before {
   width: 60%;
 }
 .skills-content .right .js::before {
-  width: 80%;
+  width: 60%;
 }
-.skills-content .right .python::before {
+.skills-content .right .react::before {
   width: 50%;
 }
-.skills-content .right .node::before {
-  width: 30%;
+.skills-content .right .typescript::before {
+  width: 40%;
 }
+.skills-content .right .redux::before {
+  width: 40%;
+}
+.skills-content .right .css::before {
+  width: 60%;
+}
+.skills-content .right .bootstrap::before {
+  width: 60%;
+}
+.skills-content .right .jquery::before {
+  width: 60%;
+}
+.skills-content .right .node::before {
+  width: 50%;
+}
+.skills-content .right .npm::before {
+  width: 60%;
+}
+.skills-content .right .express::before {
+  width: 50%;
+}
+.skills-content .right .mongodb::before {
+  width: 60%;
+}
+.skills-content .right .authentication::before {
+  width: 50%;
+}
+
 
 /* contact section styling */
 .contact .title::after {
