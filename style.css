@@ -319,7 +319,7 @@ section .title::after {
   height: 100%;
   left: 0;
   top: 0;
-  background: crimson;
+  /*background: crimson;*/
 }
 .skills-content .right .Robotics & Automation::before {
   width: 70%;
